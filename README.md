@@ -1,1 +1,2 @@
-# Warsztaty_1
+# Workshop_1 
+Let's play a game!
